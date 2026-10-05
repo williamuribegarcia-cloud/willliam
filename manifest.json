@@ -1,0 +1,14 @@
+{
+  "name": "GoodWe Comisionamiento",
+  "short_name": "GW Comision",
+  "description": "Asistente de comisionamiento para instaladores GoodWe",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111112",
+  "theme_color": "#E8002D",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
